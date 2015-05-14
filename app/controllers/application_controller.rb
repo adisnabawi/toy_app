@@ -5,5 +5,5 @@ class ApplicationController < ActionController::Base
 end
 
   def toy
-    render text:"Hello brothers"
+    render text:"Hello brother"
   end
